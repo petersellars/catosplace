@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Docker & Ansible"
+date: 2014-08-14 01:48:16 +1200
+comments: true
+categories: [Docker, Ansible]
+---
+Docker &amp; Ansible Video
