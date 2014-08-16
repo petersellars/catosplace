@@ -1,8 +1,33 @@
 ---
 layout: post
-title: "Docker & Ansible"
+title: "Is Ansible The Best Way To Manager Docker?"
 date: 2014-08-14 01:48:16 +1200
 comments: true
-categories: [Docker, Ansible]
+categories: [Docker, Ansible, 'Configuration Management']
 ---
-Docker &amp; Ansible Video
+I sense that Ansible is growing in popularity. ThoughtWorks now recommends the adoption of Ansible '*for automated control of your infrastructure*' in their industry recognised Technologoy Radar.
+
+>we continue to be impressed with its capabilities and ease of use compared to other offerings in this space
+
+*ThoughtWorks Technology Radar - July 2014*
+
+I have been researching and experimenting with Docker for a while, but have yet to really decide on a best way to manage it. Whilst looking into Ansible I was intrigued by their claim that:
+
+> __Ansible is the best way to manage Docker__
+
+*Ansible Website - Ansible & Docker*
+
+There is a video from Ansiblefest NYC May 2014 on the Ansible &amp; Docker page outlining a number of Ansible modules that support Docker management. Among them are the *docker_module*, *docker_images_module*, *docker_facts_module* and a *docker inventory plugin*.
+
+|Module Name|Docker Use|Project Link| 
+|--------------|----------|------------|
+|docker_images_module|Add, Build or Remove Docker Images||
+|docker_module||
+|docker_facts||
+|docker plugin||
+
+*__Ansible Docker Modules__*
+
+Ansible &amp; Docker, Patrick Galbraith, HP Advanced Technologies Video
+
+{% youtube oZ45v8AeE7k %}
