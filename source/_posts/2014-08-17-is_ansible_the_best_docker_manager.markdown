@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Is Ansible The Best Way To Manager Docker?"
+title: "Is Ansible The Best Way To Manage Docker?"
 date: 2014-08-17 17:05:16 +1200
 comments: true
 categories: [Docker, Ansible, 'Configuration Management']
