@@ -61,5 +61,7 @@ footer: true
 
 # General Blog/Articles
 
+[DevOps Weekly](http://www.devopsweekly.com/) - _Weekly DevOps News, Articles, Jobs, Tools and Event round-up_
+
 ---
 # General Podcasts
