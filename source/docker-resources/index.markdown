@@ -13,22 +13,23 @@ footer: true
 
 ---
 
-# Docker Tools
+## Docker Tools
 
 ---
 
-# Articles/Blogs
+## Articles/Blogs
 
 ---
 
-# Videos
+## Videos
 
-[**Ansible &amp; Docker** - AnsibleFest NYC 2014](http://www.youtube.com/watch?v=oZ45v8AeE7k)
-
----
-
-# Books
+[**Ansible &amp; Docker** - AnsibleFest NYC 2014](http://www.youtube.com/watch?v=oZ45v8AeE7k)<br/>
+[**Puppet &amp; Docker**: Using Containers with Configuration Management](http://puppetlabs.com/webinars/puppet-docker-using-containers-configuration-management)
 
 ---
 
-# Podcasts
+## Books
+
+---
+
+## Podcasts

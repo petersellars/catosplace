@@ -14,6 +14,8 @@ footer: true
 
 ## Videos
 
+[**Puppet & Docker**: Using Containers with Configuration Management](http://puppetlabs.com/webinars/puppet-docker-using-containers-configuration-management)
+
 ---
 
 # Chef
