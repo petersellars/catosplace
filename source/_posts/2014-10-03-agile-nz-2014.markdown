@@ -11,13 +11,37 @@ Day 1 saw me attend the opening presentation by Conference Chair, [__Edwin Dando
 
 <!--more-->
 
+Unfortunatly the videos from this conference have been restricted by the publishers to only attendees. It would be awesome if these were made available to the general public - I am sure there are many New Zealand Agilists who would benefit from being able to see the talks but for one reason or another were unable to attend the conference. Some slides have been made available to the general public though and those that relate to talks I attended on Day 1 have been embedded below.
+
 ## Welcome by Conference Chair - _Edwin Dando_
+
+Edwin got the conference off to a flying start and challenged attendees to grasp at the Technology based future for New Zealand and how we need to get better at it. He really set the tone for the conference - highlighting that it is not about Agile but about better outcomes. His simple challenge to all attendees was
+> Will you help us make a better NZ? 
+
+_Edwin Dando, Conference Chair_
 
 {% slideshare 38993792 %}
 
 ## [Keynote] Specification by Example - _Gojko Adzic_
 
+Gojko Adzic presented an entertaining and interesting '__How to outrun your competition__' (Specification By Example) keynote that raised the bar of presentations to a level that was maintained by most of the speakers that followed. He utilised his Serbian bankground and references to add humour amongst his important messages.  
+
+The important message from this version of Gojko's talk focused on how to outrun the competition due to the impact Specification By Example has on the pipeline of work within your organisation. Utilising Specification By Example enables your organisation to complete work as fast as your developers can output it.
+
+This presentation is one of those available to attendees and hopefully will be opened to the public in due course - it comes highly recommended. 
+
 ## Unleashing the full potential of your Agile Teams - _Dipesh Pala, IBM_
+
+My former colleage Dipesh Pala provided a high energy, highly engaging talk on unleashing the full potential of your Agile Teams. Dipesh mixed both work and homelife stories into his talk litered with great research, quotes and reflective moments.
+
+> If you can't fly, Run<br/> 
+> If you can't run, Walk<br/> 
+> If you can't walk, Crawl<br/>
+> But, by all means keep moving 
+
+_Dr. Martin Luther King, Jr._
+
+Focusing on the Catalysts vs. Inhibitors and Nourishers vs. Toxins elements Dipesh outlined the basis for a [Daily Checklist for Team Leaders](http://public.dhe.ibm.com/software/au/pdf/IBM_Agile_Conference_CHECKLIST.pdf) he prepared for and uses daily in his role at [IBM](http://www.ibm.com/au).
 
 {% slideshare 39449747 %}
 
