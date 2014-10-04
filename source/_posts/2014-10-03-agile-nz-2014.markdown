@@ -1,0 +1,35 @@
+---
+layout: post
+title: "AgileNZ 2014 - Day 1 Overview"
+date: 2014-10-03 22:27:08 +1300
+comments: true
+categories: [Agile, Conference, 'New Zealand'] 
+---
+Last month I attended the [AgileNZ 2014](http://agilenz.co.nz/) Conference in Wellington. Sponsored by [Assurity](http://assurity.co.nz/) the conference boasted an impressive line up of talented speakers, both national and international. Seeing [Gojko Adzic](http://gojko.net/) (Author of [Specification By Example](http://specificationbyexample.com/)) and [Tobias Mayer](http://businesscraftsmanship.com/) (Author of ([The People's Scrum](http://www.amazon.com/The-Peoples-Scrum-Revolutionary-Transformation/dp/1937965155/)) present in NZ reflected the conference organisers credibility amongst the Agile Community. 
+
+Day 1 saw me attend the opening presentation by Conference Chair, [__Edwin Dando__](http://agileforeveryone.com/) followed by __Gojko Adzic__'s _Specification by Example_ keynote. I also attended talks by a former colleague [__Dispesh Pala__](https://www.linkedin.com/in/dipeshpala) (now IBM), [__Bernard O'Leary__](https://www.linkedin.com/in/bernardoleary), [__Clare McLennan__](https://www.linkedin.com/pub/clare-mclennan/3/b81/48) and [__Martin Kearns__](https://www.linkedin.com/profile/view?id=2656102) as well as [__Eric Willeke__](http://ericwilleke.com/)'s afternoon keynote. The programme for the conference listing all the speakers can be found [here](http://agilenz.co.nz/programme/).
+
+<!--more-->
+
+## Welcome by Conference Chair - _Edwin Dando_
+
+{% slideshare 38993792 %}
+
+## [Keynote] Specification by Example - _Gojko Adzic_
+
+## Unleashing the full potential of your Agile Teams - _Dipesh Pala, IBM_
+
+{% slideshare 39449747 %}
+
+## Surfing the wave of emergent design. How architecture works in an Agile organisation - _Bernard O'Leary, CallPlus Group_
+
+{% slideshare 39449754 %}
+
+## [Keynote] WIP: A tragedy in 278 parts - _Eric Willeke, Rally_
+
+{% slideshare 39449752 %}
+
+## Cultural cringe - _Clare McLennan, Independent Consultant_
+
+## Making sense of complexity by designing dynamic environments - _Martin Kearns, SMSMT/Scrum Alliance_ 
+
