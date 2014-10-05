@@ -47,9 +47,24 @@ Focusing on the Catalysts vs. Inhibitors and Nourishers vs. Toxins elements Dipe
 
 ## Surfing the wave of emergent design. How architecture works in an Agile organisation - _Bernard O'Leary, CallPlus Group_
 
+Having seen Bernard present previously it was unfortunate that he struggled in this presentation. His topic, view and message are important ones that don't get sufficient exposure at Agile conferences. Architectural agility, the use of emergent design and the his two key messages resonate well with me.
+
+> Planning to fail vs. failing to plan<br/>
+> Collective brain-power vs. design 'hero;
+
+_Bernard O'Leary, CallPlus Group_
+
+Incremental architecture based on the appropriate implementations whilst '_thinking globally, acting locally_' formed the basis of Bernard's talk. Whilst Bernard has had better presentation days - his message is important and deserves to be heard. Good on Bernard for stepping up to the plate and sharing this presentation to a wider audience. 
+
 {% slideshare 39449754 %}
 
 ## [Keynote] WIP: A tragedy in 278 parts - _Eric Willeke, Rally_
+
+Being well aware of the tragedy of WIP I was excited to hear Eric Willeke would be talking about it in his keynote. I was pleasantly surprised to learn that 2 is actually the optimal number of tasks a person can do to maintain flow. As a result I am now experimenting with this in my personal kanban environment.
+
+All the usual flow metrics appeared such as how much touch time and wait time occur during TIP (Time in process) for tasks leading to the flow efficiency equation present in the slidedeck. I chat on a regular basis with companies who are still focused on keeping people 100% efficient rather than focusing on flow, and it is truly depressing!
+
+Suggested Reading: [_The Impact of Agile Quantified_](https://www.rallydev.com/sites/default/files/ImpactAgile_Quantified.pdf)
 
 {% slideshare 39449752 %}
 
