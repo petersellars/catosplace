@@ -70,5 +70,19 @@ Suggested Reading: [_The Impact of Agile Quantified_](https://www.rallydev.com/s
 
 ## Cultural cringe - _Clare McLennan, Independent Consultant_
 
+Clare provided some interesting insights into Agile teams and the impact introducing Agile teams can have on individuals. As well as updating the [Tuckman Model](http://en.wikipedia.org/wiki/Tuckman's_stages_of_group_development) to the 'McLennan Model' incorporating the ability for teams to 'deform' as opposed to 'perform' after 'norming', Clare provided useful techniques for helping to build better teams.
+
+Amongst the ideas discussed were the [Ladder of Inference](http://www.mindtools.com/pages/article/newTMC_91.htm) and the use of inquiry language. Specifically aimed at the technically minded who 'may' need to develop so-called soft skills in order to thrive in Agile teams this was an entertaining presentation that was well received. 
+
 ## Making sense of complexity by designing dynamic environments - _Martin Kearns, SMSMT/Scrum Alliance_ 
 
+[Martin Kearns](https://twitter.com/kearnsey) has to be one of the most interesting Agile minds in Australasia. This talk along with others I have been priveleged to attend got the mind juices going from the get go - Martin always engages you to challenge your own thinking and in this particular talk his focus is on how to 'Create a Lens to see things differently'.
+
+> We have to learn our way out of problems
+
+_Martin Kearns, SMST/Scrum Alliance_
+
+The main focus of the talk was a unique space Martin had helped to create. This space captured a lot of disparate information and was used to engage leaders in searching, seeking and discovering patterns in the information. The _'Immersion Room'_ is a truly dynamic environment used to make sense of complexity. The power of Co-creation and collaboration supporting sustainable change and establishing new rituals within an organization.
+
+<blockquote class="twitter-tweet" lang="en" align="center"><p>Your tweets, <a href="https://twitter.com/kearnsey">@kearnsey</a> presentation, my remote visual notes <a href="https://twitter.com/AgileNZConf">@AgileNZConf</a> <a href="https://twitter.com/hashtag/AgileNZConf?src=hash">#AgileNZConf</a> <a href="https://twitter.com/hashtag/agile?src=hash">#agile</a> <a href="https://twitter.com/hashtag/disruption?src=hash">#disruption</a> <a href="http://t.co/dcfpQF4pLu">pic.twitter.com/dcfpQF4pLu</a></p>&mdash; Lynne Cazaly (@lynnecazaly) <a href="https://twitter.com/lynnecazaly/status/507041730651107330">September 3, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
