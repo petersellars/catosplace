@@ -30,8 +30,9 @@ footer: true
 
 [**Ben Golub, CEO Docker, Keynote**](https://www.youtube.com/watch?v=bYiXrQWxIVg) [Slides](http://www.slideshare.net/dotCloud/docker-con-keynote-v11-1)<br/>
 [**John Engates, CTO Rackspace, Keynote**](https://www.youtube.com/watch?v=TVAIZmWnI1c) [Slides](http://www.slideshare.net/dotCloud/john-engates-keynote-at-dockercon-14)<br/>
-[**Brian Stevens, EVP &amp; CTO Red Hat, Keynote**](https://www.youtube.com/watch?v=ZcEEnCMAMvo) 
-
+[**Brian Stevens, EVP &amp; CTO Red Hat, Keynote**](https://www.youtube.com/watch?v=ZcEEnCMAMvo)<br/> 
+[**Fabio Kung, Heroku, Thoughts on Interoperable Container**](https://www.youtube.com/watch?v=mVPVpn44X74) [Slides](http://www.slideshare.net/fabiokung/dockercon-2014-thoughts-on-interoperable-containers)<br/>
+ 
 ---
 
 ## Books
