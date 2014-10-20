@@ -16,6 +16,10 @@ footer: true
 
 [**Puppet & Docker**: Using Containers with Configuration Management](http://puppetlabs.com/webinars/puppet-docker-using-containers-configuration-management)
 
+### __PuppetConf 2014__ - September 20-24,2014 - San Francisco
+
+[**Luke Kanies, Founder &amp; CEO Puppet Labs, Keynote:Nearly a Decade of Puppet - What We've Learned &amp; Where We're Going Next**](https://puppetlabs.com/presentations/keynote-nearly-decade-puppet-what-weve-learned-and-where-were-going-next-luke-kanies) [Slides](https://www.slideshare.net/slideshow/embed_code/39545495#) 
+
 ---
 
 # Chef
