@@ -18,7 +18,9 @@ footer: true
 
 ### __PuppetConf 2014__ - September 20-24,2014 - San Francisco
 
-[**Luke Kanies, Founder &amp; CEO Puppet Labs, Keynote:Nearly a Decade of Puppet - What We've Learned &amp; Where We're Going Next**](https://puppetlabs.com/presentations/keynote-nearly-decade-puppet-what-weve-learned-and-where-were-going-next-luke-kanies) [Slides](https://www.slideshare.net/slideshow/embed_code/39545495#) 
+[**Luke Kanies, Founder &amp; CEO Puppet Labs, Keynote:Nearly a Decade of Puppet - What We've Learned &amp; Where We're Going Next**](https://puppetlabs.com/presentations/keynote-nearly-decade-puppet-what-weve-learned-and-where-were-going-next-luke-kanies) [Slides](https://www.slideshare.net/slideshow/embed_code/39545495#)<br/>
+[**Gene Kim, Author &amp; DevOps Enthusiast, Keynote:The Phoenix Project - Lessons Learned**](https://www.youtube.com/watch?v=aYy5OdUifqc) [Slides](http://www.slideshare.net/PuppetLabs/keynote-the-phoenix-project-lessons-learned-puppetconf-2014)<br/>
+[**Nicole Forsgren &amp; Gene Kim, DevOps Means Business**](https://www.youtube.com/watch?v=MUIPTtXfq2E) [Slides](http://www.slideshare.net/PuppetLabs/devops-means-business-gene-kim-it-revolution-press-nicole-forsgren-velasquez-utah-state-university)<br/> 
 
 ---
 
