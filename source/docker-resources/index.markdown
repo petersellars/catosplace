@@ -32,7 +32,8 @@ footer: true
 [**John Engates, CTO Rackspace, Keynote**](https://www.youtube.com/watch?v=TVAIZmWnI1c) [Slides](http://www.slideshare.net/dotCloud/john-engates-keynote-at-dockercon-14)<br/>
 [**Brian Stevens, EVP &amp; CTO Red Hat, Keynote**](https://www.youtube.com/watch?v=ZcEEnCMAMvo)<br/> 
 [**Fabio Kung, Heroku, Thoughts on Interoperable Container**](https://www.youtube.com/watch?v=mVPVpn44X74) [Slides](http://www.slideshare.net/fabiokung/dockercon-2014-thoughts-on-interoperable-containers)<br/>
-[**Rohan Singh, Spotify**](https://www.youtube.com/watch?v=Tlgoq9t95ew) [Slides](http://www.slideshare.net/rohanrsingh/docker-at-spotify)<br/>
+[**Rohan Singh, Spotify, Docker at Spotify**](https://www.youtube.com/watch?v=Tlgoq9t95ew) [Slides](http://www.slideshare.net/rohanrsingh/docker-at-spotify)<br/>
+[**Colin Humphreys, CEO CloudCredo, Decker: Cloud Foundry with Docker**](https://www.youtube.com/watch?v=tvAAC9xkRvs) [Slides](http://www.slideshare.net/Pivotal/colinhumphreys-cloudcredo140613155150phpapp01)
  
 ---
 
