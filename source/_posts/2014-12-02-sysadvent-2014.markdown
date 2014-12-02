@@ -1,0 +1,16 @@
+---
+layout: post
+title: "SysAdvent 2014"
+date: 2014-12-02 22:54:43 +1300
+comments: true
+categories: [DevOps,Docker] 
+---
+
+[SysAdvent](http://sysadvent.blogspot.com/) is a set of articles on system administration topics written by practicing sysadmins. Now in its 7th year of posting an article for each day of December ending on the 25th it continues to provide insightful and useful articles that I eagerly anticipate each year.
+
+->![SysAdvent Logo](/images/sys-advent-long.png)<-
+
+This post will provide a resource list with links to each of the articles and links to the contributors [Twitter](http://www.twitter.com) feeds too. I also have created a [SysAdvent 2014 Twitter List](https://twitter.com/PeterSellars/lists/sysadvent2014) that I shall add the contributors to for easy reference. 
+
+* [1] [Docker in Production, Reality, Not Hype](http://sysadvent.blogspot.co.nz/2014/12/day-1-docker-in-production-reality-not.html)<br/>Bridget Kromhout([@bridgetkromhout](https://twitter.com/bridgetkromhout)),Christopher Webber([@cwebber](https://twitter.com/cwebber))
+* [2] [Running Application at Scale with Kubernetes](http://sysadvent.blogspot.co.nz/2014/12/day-2-running-applications-at-scale.html)<br/>Kelsey Hightower([@kelseyhightower](https://twitter.com/kelseyhightower)),Tom Purl([@tompurl](https://www.twitter.com/tompurl))   
