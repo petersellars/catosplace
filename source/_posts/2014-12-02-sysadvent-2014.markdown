@@ -8,7 +8,7 @@ categories: [DevOps,Docker]
 
 [SysAdvent](http://sysadvent.blogspot.com/) is a set of articles on system administration topics written by practicing sysadmins. Now in its 7th year of posting an article for each day of December ending on the 25th it continues to provide insightful and useful articles that I eagerly anticipate each year.
 
-->![SysAdvent Logo](/images/sys-advent-long.png)<-
+->{% img {{root_url}} /images/sys-advent-long.png %}<-
 
 This post will provide a resource list with links to each of the articles and links to the contributors [Twitter](http://www.twitter.com) feeds too. I also have created a [SysAdvent 2014 Twitter List](https://twitter.com/PeterSellars/lists/sysadvent2014) that I shall add the contributors to for easy reference. 
 
