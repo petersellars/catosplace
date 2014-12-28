@@ -33,7 +33,8 @@ footer: true
 [**Brian Stevens, EVP &amp; CTO Red Hat, Keynote**](https://www.youtube.com/watch?v=ZcEEnCMAMvo)<br/> 
 [**Fabio Kung, Heroku, Thoughts on Interoperable Container**](https://www.youtube.com/watch?v=mVPVpn44X74) [Slides](http://www.slideshare.net/fabiokung/dockercon-2014-thoughts-on-interoperable-containers)<br/>
 [**Rohan Singh, Spotify, Docker at Spotify**](https://www.youtube.com/watch?v=Tlgoq9t95ew) [Slides](http://www.slideshare.net/rohanrsingh/docker-at-spotify)<br/>
-[**Colin Humphreys, CEO CloudCredo, Decker: Cloud Foundry with Docker**](https://www.youtube.com/watch?v=tvAAC9xkRvs) [Slides](http://www.slideshare.net/Pivotal/colinhumphreys-cloudcredo140613155150phpapp01)
+[**Colin Humphreys, CEO CloudCredo, Decker: Cloud Foundry with Docker**](https://www.youtube.com/watch?v=tvAAC9xkRvs) [Slides](http://www.slideshare.net/Pivotal/colinhumphreys-cloudcredo140613155150phpapp01)<br/>
+[**Mohit Soni, Software Engineer/Ashish Hunnargikar, Software Engineer, eBay: Delivering eBay's CI Solution with Apache Mesos & Docker**](https://www.youtube.com/watch?v=VZPbLUJnR68) [Slides](http://www.slideshare.net/ahunnargikar/docker-con-ebay)
  
 ---
 
