@@ -35,7 +35,8 @@ footer: true
 [**Rohan Singh, Spotify, Docker at Spotify**](https://www.youtube.com/watch?v=Tlgoq9t95ew) [Slides](http://www.slideshare.net/rohanrsingh/docker-at-spotify)<br/>
 [**Colin Humphreys, CEO CloudCredo, Decker: Cloud Foundry with Docker**](https://www.youtube.com/watch?v=tvAAC9xkRvs) [Slides](http://www.slideshare.net/Pivotal/colinhumphreys-cloudcredo140613155150phpapp01)<br/>
 [**Mohit Soni, Software Engineer/Ashish Hunnargikar, Software Engineer, eBay: Delivering eBay's CI Solution with Apache Mesos & Docker**](https://www.youtube.com/watch?v=VZPbLUJnR68) [Slides](http://www.slideshare.net/ahunnargikar/docker-con-ebay)<br/>
-[**Nicola Paolucci, Developer Adovocate/Evangelist Atlassian: Be a Happier Developer with Docker**](https://www.youtube.com/watch?v=XCVOxht34Hs) [Slides](http://www.slideshare.net/Docker/dockercon-beahappierdevwithdocker140613160957phpapp02-37589065)
+[**Nicola Paolucci, Developer Adovocate/Evangelist Atlassian: Be a Happier Developer with Docker**](https://www.youtube.com/watch?v=XCVOxht34Hs) [Slides](http://www.slideshare.net/Docker/dockercon-beahappierdevwithdocker140613160957phpapp02-37589065)<br/>
+[**Aravind Narayanan, Facebook: Tupperware - Containerized Deployment at FB**](https://www.youtube.com/watch?v=C_WuUgTqgOc) [Slides](http://www.slideshare.net/Docker/aravindnarayanan-facebook140613153626phpapp02-37588997)
  
 ---
 
