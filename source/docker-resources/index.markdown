@@ -38,6 +38,7 @@ footer: true
 [**Nicola Paolucci, Developer Adovocate/Evangelist Atlassian: Be a Happier Developer with Docker**](https://www.youtube.com/watch?v=XCVOxht34Hs) [Slides](http://www.slideshare.net/Docker/dockercon-beahappierdevwithdocker140613160957phpapp02-37589065)<br/>
 [**Aravind Narayanan, Facebook: Tupperware - Containerized Deployment at FB**](https://www.youtube.com/watch?v=C_WuUgTqgOc) [Slides](http://www.slideshare.net/Docker/aravindnarayanan-facebook140613153626phpapp02-37588997)<br/>
 [**Gene Kim, Entrepreneur, Researcher &amp; Author - Docker &amp; DevOps**](https://www.youtube.com/watch?v=SaHbtEeu37M) [Slides](http://www.slideshare.net/Docker/201406dockeranddevops40m-140613155907phpapp01-37588918)
+[**David Lutterkort, Principal Software Engineer PuppetLabs: Beyond Golden Containers - Complementing Docker with Puppet**](https://www.youtube.com/watch?v=2BJsBzXJFK8) [Slides](http://www.slideshare.net/lutter/talk-35721609)<br/>
  
 ---
 
