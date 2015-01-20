@@ -27,6 +27,8 @@ footer: true
 [**Morgan Haskel, Module Engineer/Lauren Rother, Technical Writer Puppet Labs:A Practical Guide to Modules**](https://www.youtube.com/watch?v=Z6Y63gtzPUY) [Slides](http://www.slideshare.net/PuppetLabs/a-practical-guide-to-modules-lauren-rother-puppet-labs-morgan-haskel-puppet-labs)<br/>
 #### DevOps
 [**Nicole Forsgren &amp; Gene Kim, DevOps Means Business**](https://www.youtube.com/watch?v=MUIPTtXfq2E) [Slides](http://www.slideshare.net/PuppetLabs/devops-means-business-gene-kim-it-revolution-press-nicole-forsgren-velasquez-utah-state-university)<br/> 
+#### Case Studies
+[**Kris Buytaert, Inuits:7 Years of Puppet Horror Stories**](https://www.youtube.com/watch?v=zSlTBMNSfpU) [Slides](http://www.slideshare.net/PuppetLabs/7-puppet-horror-stories-in-7-years-puppetconf-2014)<br/>
 
 ---
 
