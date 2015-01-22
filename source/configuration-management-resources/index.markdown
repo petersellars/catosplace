@@ -29,6 +29,8 @@ footer: true
 [**Nicole Forsgren &amp; Gene Kim, DevOps Means Business**](https://www.youtube.com/watch?v=MUIPTtXfq2E) [Slides](http://www.slideshare.net/PuppetLabs/devops-means-business-gene-kim-it-revolution-press-nicole-forsgren-velasquez-utah-state-university)<br/> 
 #### Case Studies
 [**Kris Buytaert, Inuits:7 Years of Puppet Horror Stories**](https://www.youtube.com/watch?v=zSlTBMNSfpU) [Slides](http://www.slideshare.net/PuppetLabs/7-puppet-horror-stories-in-7-years-puppetconf-2014)<br/>
+#### Puppet Ecosystem
+[**Carla Souza, Software Engineer Reliant: Buidling and Testing from Scratch a Puppet Environment with Docker**](https://www.youtube.com/watch?v=uCzmkn45AVE) [Slides](http://www.slideshare.net/PuppetLabs/puppet-conf2014)<br/>
 
 ---
 
