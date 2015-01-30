@@ -19,6 +19,9 @@ footer: true
 
 ## Articles/Blogs
 
+### Blog Posts
+[Gotchas in Writing Dockerfile](http://kimh.github.io/blog/en/docker/gotchas-in-writing-dockerfile-en/) - Program Is Made At Night
+
 ---
 
 ## Videos
