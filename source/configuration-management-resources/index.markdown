@@ -33,6 +33,10 @@ footer: true
 [**Carla Souza, Software Engineer Reliant: Buidling and Testing from Scratch a Puppet Environment with Docker**](https://www.youtube.com/watch?v=uCzmkn45AVE) [Slides](http://www.slideshare.net/PuppetLabs/puppet-conf2014)<br/>
 #### Cloud
 [**Eric Sorenson, Engineer PuppetLab: Cloudy with a Chance of Fireballs - Managing Trusted Instances in the Cloud**](https://www.youtube.com/watch?v=AP3Gl_5vtGA) [Slides](http://www.slideshare.net/PuppetLabs/sorenson-fireballspuppet-conf2014)<br/>
+#### Software Defined Infrastructure
+[**John Willis, Executive in Residence Pacific Crest Securities: DevOps and Software Defined Networking**](https://www.youtube.com/watch?v=MbzSWk5AF_U)<br/>
+#### Continuous Delivery
+[**Alice Nodelman, Senior QA Engineer Puppetlabs: Beaker - Automated, Cloud-Based Acceptance Testing**](https://www.youtube.com/watch?v=3AYvSdQ3EAE) [Slides](http://www.slideshare.net/PuppetLabs/beaker-automated-cloudbased-acceptance-testing-puppetconf-2014)<br/>
 
 ---
 
