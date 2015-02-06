@@ -37,6 +37,8 @@ footer: true
 [**John Willis, Executive in Residence Pacific Crest Securities: DevOps and Software Defined Networking**](https://www.youtube.com/watch?v=MbzSWk5AF_U)<br/>
 #### Continuous Delivery
 [**Alice Nodelman, Senior QA Engineer Puppetlabs: Beaker - Automated, Cloud-Based Acceptance Testing**](https://www.youtube.com/watch?v=3AYvSdQ3EAE) [Slides](http://www.slideshare.net/PuppetLabs/beaker-automated-cloudbased-acceptance-testing-puppetconf-2014)<br/>
+#### Under the Hood
+[**Igor Galic, Brainsware OG: Absolute Beginners Guide to Puppet Through Types**](https://www.youtube.com/watch?v=r8ZP421lJvI) [Slides](http://www.slideshare.net/PuppetLabs/absolute-beginners-guide-to-puppet-through-types-igor-galic-brainsware-og)<br/>
 
 ---
 

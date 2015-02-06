@@ -45,6 +45,7 @@ footer: true
 [**Scott Bessler, Developer/John Fiedler, Operations, RelateIQ: Ubiquitous Deployment**](https://www.youtube.com/watch?v=z9yNq-IjCcM) [Slides](http://www.slideshare.net/relateiq/dockercon-14)<br/>
 [**Benjamin Hindman, Engineer Twitter: Cluster Management and Containerization**](https://www.youtube.com/watch?v=F1-UEIG7u5g) [Slides](http://www.slideshare.net/Docker/dockercon-benjaminhindman140613161347phpapp01-37589064)<br/>
 [**Jonathan Weiss, Senior Manager Amazon Web Services: Running Docker on AWS**](https://www.youtube.com/watch?v=CBajQEu0jW8) [Slides](http://www.slideshare.net/jweiss/docker-on-aws-opsworks)<br/>
+[**Boden Russell, Advanced Cloud Solution IBM: Performance Characteristics of Traditional VMs vs Docker Container**](https://www.youtube.com/watch?v=JHqM_5X3MBU) [Slides](http://www.slideshare.net/BodenRussell/performance-characteristics-of-traditional-v-ms-vs-docker-containers-dockercon14)<br/>
  
 ---
 
