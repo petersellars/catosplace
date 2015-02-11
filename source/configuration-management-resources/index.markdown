@@ -39,6 +39,10 @@ footer: true
 [**Alice Nodelman, Senior QA Engineer Puppetlabs: Beaker - Automated, Cloud-Based Acceptance Testing**](https://www.youtube.com/watch?v=3AYvSdQ3EAE) [Slides](http://www.slideshare.net/PuppetLabs/beaker-automated-cloudbased-acceptance-testing-puppetconf-2014)<br/>
 #### Under the Hood
 [**Igor Galic, Brainsware OG: Absolute Beginners Guide to Puppet Through Types**](https://www.youtube.com/watch?v=r8ZP421lJvI) [Slides](http://www.slideshare.net/PuppetLabs/absolute-beginners-guide-to-puppet-through-types-igor-galic-brainsware-og)<br/>
+#### DevOps
+[**Tomas Doran, Yelp: Sensu and Sensibility**](https://www.youtube.com/watch?v=0VfSmITEOHM) [Slides](http://www.slideshare.net/PuppetLabs/130pm-210pm-tomas-doran-track-1-puppetconf2014-sensu)<br/>
+#### IT Automation
+[**Robert Maury, Technical Solutions Engineer PuppetLabs: Security/Auditing with Puppet**](https://www.youtube.com/watch?v=iOns67jskjE) [Slides](http://www.slideshare.net/PuppetLabs/auditingsecurity-with-puppet-puppetconf-2014)<br/>
 
 ---
 
@@ -57,6 +61,16 @@ footer: true
 [Ansible Website](http://www.ansible.com)
 
 ## Blogs/Articles
+
+[Ansible is the Best Way to Manage Docker](http://www.ansible.com/docker)
+
+## Resources
+
+### Slides
+[AnsibleFest London 2015 Presentations](http://www.ansible.com/blog/ansiblefest-london-presentations)
+
+### Tools
+[Ansible Docker Images](https://registry.hub.docker.com/repos/ansible/)
 
 ## Videos
 [**Ansible &amp; Docker** - AnsibleFest NYC 2014](http://www.youtube.com/watch?v=oZ45v8AeE7k)
