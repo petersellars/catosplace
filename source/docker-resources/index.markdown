@@ -21,6 +21,7 @@ footer: true
 ## Articles/Blogs
 
 ### Blog Posts
+[The Docker Ecosystem: An Introduction to Common Components](https://www.digitalocean.com/community/tutorials/the-docker-ecosystem-an-introduction-to-common-components) - DigitalOcean Tutorials<br/>
 [Gotchas in Writing Dockerfile](http://kimh.github.io/blog/en/docker/gotchas-in-writing-dockerfile-en/) - Program Is Made At Night
 
 ---
@@ -49,6 +50,7 @@ footer: true
 [**Boden Russell, Advanced Cloud Solution IBM: Performance Characteristics of Traditional VMs vs Docker Container**](https://www.youtube.com/watch?v=JHqM_5X3MBU) [Slides](http://www.slideshare.net/BodenRussell/performance-characteristics-of-traditional-v-ms-vs-docker-containers-dockercon14)<br/>
 [**Kevin Ready &amp; Aater Suleman, Auto.com: Lessons from using Docker to Improve Web Developer Productivity**](https://www.youtube.com/watch?v=PBBUnNS4dRw) [Slides](http://www.slideshare.net/Flux7Labs/docker-con-lessons-from-using-docker-to-improve-web-developer-productivity-36261623)<br/>
 [**Michael Bryzek, CTO &amp; Co-Founder Gilt:Immutable Infrastructure With Docker and EC2**](https://www.youtube.com/watch?v=GaHzdqFithc) [Slides](http://www.slideshare.net/dotCloud/michael-bryzek)<br/>
+[**Paul Showalter &amp; Karl Matthias New Relic: Docker Deployments - Powerful for Developers, Painless for Ops**](https://www.youtube.com/watch?v=2CwtJlJYmW4) [Slides](http://www.slideshare.net/relistan/docker-at-new-relic)<br/>
  
 ---
 

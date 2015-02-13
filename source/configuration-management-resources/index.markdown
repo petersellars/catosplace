@@ -43,6 +43,8 @@ footer: true
 [**Tomas Doran, Yelp: Sensu and Sensibility**](https://www.youtube.com/watch?v=0VfSmITEOHM) [Slides](http://www.slideshare.net/PuppetLabs/130pm-210pm-tomas-doran-track-1-puppetconf2014-sensu)<br/>
 #### IT Automation
 [**Robert Maury, Technical Solutions Engineer PuppetLabs: Security/Auditing with Puppet**](https://www.youtube.com/watch?v=iOns67jskjE) [Slides](http://www.slideshare.net/PuppetLabs/auditingsecurity-with-puppet-puppetconf-2014)<br/>
+#### Workshops
+[**Zach Leslie, Puppetlaps: Backups with Exported Resources**](https://www.youtube.com/watch?v=hO_a1MGb5JU) [Slides](http://www.slideshare.net/PuppetLabs/workshop-backups-with-exported-resources-zach-leslie-puppet-labs)<br/>
 
 ---
 

@@ -11,6 +11,14 @@ footer: true
 [Jenkins Website](http://jenkins-ci.org)<br/>
 [CloudBees Jenkins](https://www.cloudbees.com/jenkins/jenkins-cloudbees)
 
+#### Docker-Jenkins Image
+My Personal [Docker](http://docker.io) Jenkins Image
+
+* [Docker-Jenkins Repository - Github](https://github.com/petersellars/docker-jenkins)
+* [Docker-Jenkins Wercker Build](https://app.wercker.com/#applications/54dc6d383e1432922307550c)<br/>
+[![wercker status](https://app.wercker.com/status/871cb9e9823a3fdd3b7afc504ee4c16b/m "wercker status")](https://app.wercker.com/project/bykey/871cb9e9823a3fdd3b7afc504ee4c16b)
+* [Docker-Jenkins on Docker Hub](https://registry.hub.docker.com/u/cato1971/docker-jenkins/)
+
 ## Blogs/Articles
 
 [Jenkins Newsletter](https://www.cloudbees.com/jenkins/newsletter)
