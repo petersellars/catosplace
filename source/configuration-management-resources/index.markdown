@@ -25,6 +25,7 @@ footer: true
 [**Alan Green, Unix Systems Engineer Sony, Keynote:Decentralize Your Infrastructure**](https://www.youtube.com/watch?v=TDxNar1qQrA) [Slides](http://www.slideshare.net/PuppetLabs/keynote-decentralize-your-infrastructure-alan-green-sony-computer-entertainment-america)<br/>
 #### Modules
 [**Morgan Haskel, Module Engineer/Lauren Rother, Technical Writer Puppet Labs:A Practical Guide to Modules**](https://www.youtube.com/watch?v=Z6Y63gtzPUY) [Slides](http://www.slideshare.net/PuppetLabs/a-practical-guide-to-modules-lauren-rother-puppet-labs-morgan-haskel-puppet-labs)<br/>
+[**Diane Mueller, Openshift &amp; Diego Castro, GetUp Cloud: Building Community - One Puppet Module at a Time**](https://www.youtube.com/watch?v=5QFtrfJeGAY)<br/>
 #### DevOps
 [**Nicole Forsgren &amp; Gene Kim, DevOps Means Business**](https://www.youtube.com/watch?v=MUIPTtXfq2E) [Slides](http://www.slideshare.net/PuppetLabs/devops-means-business-gene-kim-it-revolution-press-nicole-forsgren-velasquez-utah-state-university)<br/> 
 #### Case Studies

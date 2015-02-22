@@ -32,7 +32,7 @@ footer: true
 [**Puppet &amp; Docker**: Using Containers with Configuration Management](http://puppetlabs.com/webinars/puppet-docker-using-containers-configuration-management)
 
 ### __DockerCon14__ - June 9-10,2014 - San Francisco
-
+#### Day 1
 [**Ben Golub, CEO Docker, Keynote**](https://www.youtube.com/watch?v=bYiXrQWxIVg) [Slides](http://www.slideshare.net/dotCloud/docker-con-keynote-v11-1)<br/>
 [**John Engates, CTO Rackspace, Keynote**](https://www.youtube.com/watch?v=TVAIZmWnI1c) [Slides](http://www.slideshare.net/dotCloud/john-engates-keynote-at-dockercon-14)<br/>
 [**Brian Stevens, EVP &amp; CTO Red Hat, Keynote**](https://www.youtube.com/watch?v=ZcEEnCMAMvo)<br/> 
@@ -51,6 +51,8 @@ footer: true
 [**Kevin Ready &amp; Aater Suleman, Auto.com: Lessons from using Docker to Improve Web Developer Productivity**](https://www.youtube.com/watch?v=PBBUnNS4dRw) [Slides](http://www.slideshare.net/Flux7Labs/docker-con-lessons-from-using-docker-to-improve-web-developer-productivity-36261623)<br/>
 [**Michael Bryzek, CTO &amp; Co-Founder Gilt:Immutable Infrastructure With Docker and EC2**](https://www.youtube.com/watch?v=GaHzdqFithc) [Slides](http://www.slideshare.net/dotCloud/michael-bryzek)<br/>
 [**Paul Showalter &amp; Karl Matthias New Relic: Docker Deployments - Powerful for Developers, Painless for Ops**](https://www.youtube.com/watch?v=2CwtJlJYmW4) [Slides](http://www.slideshare.net/relistan/docker-at-new-relic)<br/>
+[**Andrew Spyker, IBM & Sundhir Tonse, Netflix: Cloud Native NetflixOSS Services on Docker**](https://www.youtube.com/watch?v=Ca7HVPNsZN4) [Slides](http://www.slideshare.net/aspyker/ibm-cloud-nativenetflixossfinal)
+#### Day 2
  
 ---
 

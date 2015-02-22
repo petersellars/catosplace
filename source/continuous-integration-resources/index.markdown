@@ -29,4 +29,5 @@ My Personal [Docker](http://docker.io) Jenkins Image
 ### __JUC 2014__ - October 23,2014 - San Francisco
 #### Keynote
 [**Kohsuke Kawaguchi, Creater of Jenkins/CTO, CloudBees: Jenkins - State of the Union**](https://www.youtube.com/embed/yIPu5ii13Gs?v=yIPu5ii13Gs) [Slides](https://www.cloudbees.com/sites/default/files/juc_sf.pdf)<br/>
-
+#### Track 2
+[**Mario Cruz, Co-Founder/CTO Choose Digital: Automation, Innovation and Continuous Delivery**](https://www.youtube.com/embed/4nLTT9TnIXY?v=4nLTT9TnIXY) [Slides](https://www.cloudbees.com/sites/default/files/juc_speaker_mario_sf-1.pdf)
