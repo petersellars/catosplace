@@ -53,6 +53,7 @@ footer: true
 [**Paul Showalter &amp; Karl Matthias New Relic: Docker Deployments - Powerful for Developers, Painless for Ops**](https://www.youtube.com/watch?v=2CwtJlJYmW4) [Slides](http://www.slideshare.net/relistan/docker-at-new-relic)<br/>
 [**Andrew Spyker, IBM & Sundhir Tonse, Netflix: Cloud Native NetflixOSS Services on Docker**](https://www.youtube.com/watch?v=Ca7HVPNsZN4) [Slides](http://www.slideshare.net/aspyker/ibm-cloud-nativenetflixossfinal)
 #### Day 2
+[**Solomon Hykes, Founder &amp; CTO Docker: Keynote**](https://www.youtube.com/watch?v=_DOXBVrlW78)<br/>
  
 ---
 

@@ -26,8 +26,6 @@ footer: true
 #### Modules
 [**Morgan Haskel, Module Engineer/Lauren Rother, Technical Writer Puppet Labs:A Practical Guide to Modules**](https://www.youtube.com/watch?v=Z6Y63gtzPUY) [Slides](http://www.slideshare.net/PuppetLabs/a-practical-guide-to-modules-lauren-rother-puppet-labs-morgan-haskel-puppet-labs)<br/>
 [**Diane Mueller, Openshift &amp; Diego Castro, GetUp Cloud: Building Community - One Puppet Module at a Time**](https://www.youtube.com/watch?v=5QFtrfJeGAY)<br/>
-#### DevOps
-[**Nicole Forsgren &amp; Gene Kim, DevOps Means Business**](https://www.youtube.com/watch?v=MUIPTtXfq2E) [Slides](http://www.slideshare.net/PuppetLabs/devops-means-business-gene-kim-it-revolution-press-nicole-forsgren-velasquez-utah-state-university)<br/> 
 #### Case Studies
 [**Kris Buytaert, Inuits:7 Years of Puppet Horror Stories**](https://www.youtube.com/watch?v=zSlTBMNSfpU) [Slides](http://www.slideshare.net/PuppetLabs/7-puppet-horror-stories-in-7-years-puppetconf-2014)<br/>
 #### Puppet Ecosystem
@@ -41,6 +39,7 @@ footer: true
 #### Under the Hood
 [**Igor Galic, Brainsware OG: Absolute Beginners Guide to Puppet Through Types**](https://www.youtube.com/watch?v=r8ZP421lJvI) [Slides](http://www.slideshare.net/PuppetLabs/absolute-beginners-guide-to-puppet-through-types-igor-galic-brainsware-og)<br/>
 #### DevOps
+[**Nicole Forsgren &amp; Gene Kim, DevOps Means Business**](https://www.youtube.com/watch?v=MUIPTtXfq2E) [Slides](http://www.slideshare.net/PuppetLabs/devops-means-business-gene-kim-it-revolution-press-nicole-forsgren-velasquez-utah-state-university)<br/> 
 [**Tomas Doran, Yelp: Sensu and Sensibility**](https://www.youtube.com/watch?v=0VfSmITEOHM) [Slides](http://www.slideshare.net/PuppetLabs/130pm-210pm-tomas-doran-track-1-puppetconf2014-sensu)<br/>
 #### IT Automation
 [**Robert Maury, Technical Solutions Engineer PuppetLabs: Security/Auditing with Puppet**](https://www.youtube.com/watch?v=iOns67jskjE) [Slides](http://www.slideshare.net/PuppetLabs/auditingsecurity-with-puppet-puppetconf-2014)<br/>
