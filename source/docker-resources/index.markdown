@@ -54,7 +54,8 @@ footer: true
 [**Andrew Spyker, IBM & Sundhir Tonse, Netflix: Cloud Native NetflixOSS Services on Docker**](https://www.youtube.com/watch?v=Ca7HVPNsZN4) [Slides](http://www.slideshare.net/aspyker/ibm-cloud-nativenetflixossfinal)
 #### Day 2
 [**Solomon Hykes, Founder &amp; CTO Docker: Keynote**](https://www.youtube.com/watch?v=_DOXBVrlW78)<br/>
- 
+[**Jerry Cuomo, IBM Fello, Keynote**](https://www.youtube.com/watch?v=uYjZcQ7GvvU) [Slides](http://www.slideshare.net/jerrycuomo/jerry-cuomo-dockercon14-keynote-borderless-clouds)<br/> 
+
 ---
 
 ## Books
