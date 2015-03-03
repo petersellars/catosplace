@@ -30,6 +30,7 @@ footer: true
 [**Kris Buytaert, Inuits:7 Years of Puppet Horror Stories**](https://www.youtube.com/watch?v=zSlTBMNSfpU) [Slides](http://www.slideshare.net/PuppetLabs/7-puppet-horror-stories-in-7-years-puppetconf-2014)<br/>
 #### Puppet Ecosystem
 [**Carla Souza, Software Engineer Reliant: Buidling and Testing from Scratch a Puppet Environment with Docker**](https://www.youtube.com/watch?v=uCzmkn45AVE) [Slides](http://www.slideshare.net/PuppetLabs/puppet-conf2014)<br/>
+[**James Turnball, Kickstarter: Docker and Puppet - Containerization is the new Virtualization**](https://www.youtube.com/watch?v=VFcgTLFn71I) [Slides](http://www.slideshare.net/PuppetLabs/using-docker-with-puppet-puppetconf-2014)<br/> 
 #### Cloud
 [**Eric Sorenson, Engineer PuppetLab: Cloudy with a Chance of Fireballs - Managing Trusted Instances in the Cloud**](https://www.youtube.com/watch?v=AP3Gl_5vtGA) [Slides](http://www.slideshare.net/PuppetLabs/sorenson-fireballspuppet-conf2014)<br/>
 #### Software Defined Infrastructure

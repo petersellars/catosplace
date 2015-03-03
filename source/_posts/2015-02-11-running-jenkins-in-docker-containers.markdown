@@ -61,7 +61,7 @@ disk-usage:0.25
 
 I then built my derived image in the folder containing both these files using the following command:
 
-` docker build -t psellars/jenkins `
+` docker build -t psellars/jenkins .`
 
 Using this image I was then able to create a container that used the previously created data volume container:
 
