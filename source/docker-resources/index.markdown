@@ -55,6 +55,7 @@ footer: true
 #### Day 2
 [**Solomon Hykes, Founder &amp; CTO Docker: Keynote**](https://www.youtube.com/watch?v=_DOXBVrlW78)<br/>
 [**Jerry Cuomo, IBM Fello, Keynote**](https://www.youtube.com/watch?v=uYjZcQ7GvvU) [Slides](http://www.slideshare.net/jerrycuomo/jerry-cuomo-dockercon14-keynote-borderless-clouds)<br/> 
+[**Eric Brewer, VP Infrastructure Google, Keynote**](https://www.youtube.com/watch?v=YrxnVKZeqK8) [Slides](http://www.slideshare.net/Docker/brewerdockerconkeynote-140613153819phpapp02-37588923)<br/>
 
 ---
 
