@@ -59,6 +59,20 @@ footer: true
 
 ---
 
+### __DockerCon15__ - June 22-23,2014 - San Francisco
+#### Day 1 
+[**Ben Golub &amp; Solomon Hykes, Docker, Keynote**](https://www.youtube.com/watch?v=at72dhg-SZY) [Ben's Slides](http://www.slideshare.net/Docker/dockercon-sf-2015-ben-golubs-keynote-day-1) [Solomon's Slides](http://www.slideshare.net/Docker/dockercon-sf-2015-keynote-day-1)<br/>
+### Use Cases
+[**Santosh Bardwaj, Senior Director of Technology, Capital One:Analytic Garage on Docker**](https://www.youtube.com/watch?v=ogDa2-A1y9U) [Slides](http://www.slideshare.net/Docker/cap1-slideshare)<br/>
+[**Eric Buth, Interactive News Developer, New York Times:Docker in the New York Times Newsroom**](https://www.youtube.com/watch?v=Ht2RF5o9geA) [Slides](http://www.slideshare.net/Docker/dockercon-sf-2015-docker-in-the-new-york-times-newsroom)<br/>
+[**Jeff Valeo, Site Reliability Engineer, GrubHub:Enabling Continuous (Food) Delivery**](https://www.youtube.com/watch?v=yU0QhhS-XzI) [Slides](http://www.slideshare.net/Docker/dockercon-sf-2015-docker-enabling-continuous-food-delivery)<br/>
+
+#### Day 2
+[**Scott Johnston &amp; Marianna Tessel, Docker:Keynote**](https://www.youtube.com/watch?v=8vSPpPSd00w) [Slides](http://www.slideshare.net/Docker/dockercon-15-keynote-day-2)</br>
+
+
+---
+
 ## Books
 
 ---
