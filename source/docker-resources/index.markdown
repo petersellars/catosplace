@@ -61,11 +61,24 @@ footer: true
 
 ### __DockerCon15__ - June 22-23,2014 - San Francisco
 #### Day 1 
-[**Ben Golub &amp; Solomon Hykes, Docker, Keynote**](https://www.youtube.com/watch?v=at72dhg-SZY) [Ben's Slides](http://www.slideshare.net/Docker/dockercon-sf-2015-ben-golubs-keynote-day-1) [Solomon's Slides](http://www.slideshare.net/Docker/dockercon-sf-2015-keynote-day-1)<br/>
+[**Ben Golub &amp; Solomon Hykes, Docker:Keynote**](https://www.youtube.com/watch?v=at72dhg-SZY) [Ben's Slides](http://www.slideshare.net/Docker/dockercon-sf-2015-ben-golubs-keynote-day-1) [Solomon's Slides](http://www.slideshare.net/Docker/dockercon-sf-2015-keynote-day-1)<br/>
 ### Use Cases
 [**Santosh Bardwaj, Senior Director of Technology, Capital One:Analytic Garage on Docker**](https://www.youtube.com/watch?v=ogDa2-A1y9U) [Slides](http://www.slideshare.net/Docker/cap1-slideshare)<br/>
 [**Eric Buth, Interactive News Developer, New York Times:Docker in the New York Times Newsroom**](https://www.youtube.com/watch?v=Ht2RF5o9geA) [Slides](http://www.slideshare.net/Docker/dockercon-sf-2015-docker-in-the-new-york-times-newsroom)<br/>
 [**Jeff Valeo, Site Reliability Engineer, GrubHub:Enabling Continuous (Food) Delivery**](https://www.youtube.com/watch?v=yU0QhhS-XzI) [Slides](http://www.slideshare.net/Docker/dockercon-sf-2015-docker-enabling-continuous-food-delivery)<br/>
+[**Rick Fast &amp; Steve Hooffman, Engineers, Orbitz Worldwide:Enabling Microservices at Orbitz**](https://www.youtube.com/watch?v=9LAXaR0_a_E) [Slides](http://www.slideshare.net/Docker/dockercon-sf-2015-enabling-microservices-orbitz)<br/>
+[**Eric Feliksik, Director of Cloud Orchestra, Nerdalize:Using Docker to Keep Houses Warm:Highly Distributed Micro-Datacenters**](https://www.youtube.com/watch?v=95VDp1o_4dI) [Slides](http://www.slideshare.net/Docker/dockercon-sf-2015-heat-your-home-with-docker)<br/>
+### Advanced Tech
+[**Adrian Cockcroft, Technology Fellow, Battery Ventures:Faster, Cheaper and Safer:Secure Microservices Architectures using Docker**](https://www.youtube.com/watch?v=zDuTIZBh5_Q) [Slides](http://www.slideshare.net/Docker/fastercheaperslide)<br/>
+[**Diptanu Gon Choudhury, Distributed Systems and Infrastructure Engineer, Netflix:Reliably Shipping Containers in a Resource Rich World using Titan**](https://www.youtube.com/watch?v=V3OfAATYksM) [Slides](http://www.slideshare.net/Docker/dockercon-sf-2015-reliablilty-shippin)<br/>
+[**Luke Marsden, CTO ClusterHQ, Alexis Richardson and Jeff Lindsay, Co-founder GliderLabs:Docker Plugins**](https://www.youtube.com/watch?v=ri5mzIsbsY8)<br/>
+[**Simon Eskildsen, Infrastructure Engineer, Shopify:Resilient Routing and Discovery**](https://www.youtube.com/watch?v=ZDeAEZHby_A) [Slides](http://www.slideshare.net/Docker/dockercon-sf-2015-the-distributed-system-toolkit)<br/>
+[**Sarah Novotny, Technical Evangelist, NGINX:Interconnecting Containers at Scale with NGINX**](https://www.youtube.com/watch?v=6uucWLPcAPY) [Slides](http://www.slideshare.net/Docker/slideshare-for-interconnect)<br/> 
+### Docker, Docker, Docker
+[**John Willis, Technical Evangelist:Getting Started with Docker**](https://www.youtube.com/watch?v=zOyQx9vM9Ac) [Slides](http://www.slideshare.net/Docker/dockercon-sf-2015-getting-started-w-d)<br/>
+[**Arnaud Porterie, Engineering Manager &amp; Michael Crosby, Chief Maintainer:Docker Engine**](https://www.youtube.com/watch?v=mL9AFkJJAq0) [Slides](http://www.slideshare.net/Docker/slideshare-upload-format-docker-con-engine-breakout-session)<br/>
+[**Aanand Prasad, Software Engineer &amp; Evan Hazlett, Maintainer of Docker Machine:Orchestration for Developers**](https://www.youtube.com/watch?v=Dzp6CGMyRwQ) [Slides](http://www.slideshare.net/Docker/dockercon-sf-2015-orchestration-for-devs-machine-compose)<br/>
+
 
 #### Day 2
 [**Scott Johnston &amp; Marianna Tessel, Docker:Keynote**](https://www.youtube.com/watch?v=8vSPpPSd00w) [Slides](http://www.slideshare.net/Docker/dockercon-15-keynote-day-2)</br>
