@@ -78,7 +78,7 @@ footer: true
 [**John Willis, Technical Evangelist:Getting Started with Docker**](https://www.youtube.com/watch?v=zOyQx9vM9Ac) [Slides](http://www.slideshare.net/Docker/dockercon-sf-2015-getting-started-w-d)<br/>
 [**Arnaud Porterie, Engineering Manager &amp; Michael Crosby, Chief Maintainer:Docker Engine**](https://www.youtube.com/watch?v=mL9AFkJJAq0) [Slides](http://www.slideshare.net/Docker/slideshare-upload-format-docker-con-engine-breakout-session)<br/>
 [**Aanand Prasad, Software Engineer &amp; Evan Hazlett, Maintainer of Docker Machine:Orchestration for Developers**](https://www.youtube.com/watch?v=Dzp6CGMyRwQ) [Slides](http://www.slideshare.net/Docker/dockercon-sf-2015-orchestration-for-devs-machine-compose)<br/>
-
+[**Andrea Luzzardi, Software Engineer &amp; Victor Vieux, Software Engineer:Orchestration for Sysadmins**](https://www.youtube.com/watch?v=o8LDcDyiXRE) [Slides](http://www.slideshare.net/Docker/2015-dockercon-orchestrationsysadmins)<br/>
 
 #### Day 2
 [**Scott Johnston &amp; Marianna Tessel, Docker:Keynote**](https://www.youtube.com/watch?v=8vSPpPSd00w) [Slides](http://www.slideshare.net/Docker/dockercon-15-keynote-day-2)</br>
