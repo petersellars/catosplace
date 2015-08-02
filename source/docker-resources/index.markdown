@@ -79,10 +79,21 @@ footer: true
 [**Arnaud Porterie, Engineering Manager &amp; Michael Crosby, Chief Maintainer:Docker Engine**](https://www.youtube.com/watch?v=mL9AFkJJAq0) [Slides](http://www.slideshare.net/Docker/slideshare-upload-format-docker-con-engine-breakout-session)<br/>
 [**Aanand Prasad, Software Engineer &amp; Evan Hazlett, Maintainer of Docker Machine:Orchestration for Developers**](https://www.youtube.com/watch?v=Dzp6CGMyRwQ) [Slides](http://www.slideshare.net/Docker/dockercon-sf-2015-orchestration-for-devs-machine-compose)<br/>
 [**Andrea Luzzardi, Software Engineer &amp; Victor Vieux, Software Engineer:Orchestration for Sysadmins**](https://www.youtube.com/watch?v=o8LDcDyiXRE) [Slides](http://www.slideshare.net/Docker/2015-dockercon-orchestrationsysadmins)<br/>
+[**Madhu Vengopal, Senior Director of Networking &amp; Jana Radhakrishnan, Lead Software Engineer of Networking:Networking Breakout**](https://www.youtube.com/watch?v=IIHFY0U80hs) [Slides](http://www.slideshare.net/Docker/dockercon-sf-2015-networking-breakout)<br/>
+### Culture
+[**Vincent Batts, Software Engineer, Red Hat:Contribute and Collaborate 101**](https://www.youtube.com/watch?v=g8KZ2ZhuKGY) [Slides](http://www.slideshare.net/Docker/contribute-and-collabrate-101)<br/>
+[**Sharon Steed, Director of Business Development &amp; Marketing:How to talk to humans:A different approach to Soft Skills**](https://www.youtube.com/watch?v=CS9dmiVf0J0) [Slides](http://www.slideshare.net/Docker/day-1-2-00-240how-to-talk-to-humans-different-approach-to-soft-skillssharon-steed)<br/>
+**Frank Yu, DaoCloud:Docker Community in China** [Slides](http://www.slideshare.net/Docker/dockercon-sf-2015-docker-community-in-china)<br/>
+[**Panel:Alaina Percival, CEO Women Who Code;Adrian Cockcroft, Technology Fellow Battery Ventures;Dana Oshiro, Director of Programs Heavybit;Wayne Sutton, General Partner BUILDUPvc &amp; Marianna Tessel, VP of Engineering Docker:Birds of a Different Feather Soar Together**](https://www.youtube.com/watch?v=q2iWevvEIFc)<br/>
+[**Lightning Talks: Weihan Wang, Co-Founder &amp; CTO AeroFS; Christopher Horrell, Manager Solutions Engineering Joyent &amp; Jeff Lindsay, Principal Glider Labs**](https://www.youtube.com/watch?v=fNhrSMFko78) [Slides](http://www.slideshare.net/Docker/dockercon-sf2015-maintaining-the-official-nodejs-docker-image)<br/>
 
 #### Day 2
 [**Scott Johnston &amp; Marianna Tessel, Docker:Keynote**](https://www.youtube.com/watch?v=8vSPpPSd00w) [Slides](http://www.slideshare.net/Docker/dockercon-15-keynote-day-2)</br>
-
+### Use Cases
+[**Matthew Leventi, Engineer, Lyft:Speeding Up Development**](https://www.youtube.com/watch?v=iC2T3gJsB0g) [Slides](http://www.slideshare.net/Docker/dockercon-sf-2015-faster-cheaper-safer)<br/>
+[**Thomas Barber, Cloud Computing Technologist &amp; Brett Luckabaugh, Enterprise Software Architect, GE Appliances:From Months to Minutes - How GE Brings Docker Into The Enterprise**](https://www.youtube.com/watch?v=RaSzmFkf4fM) [Slides](http://www.slideshare.net/Docker/dockercon-sf-2015-from-months-to-minutes)<br/>
+[**Nirmal Mehta, Senior Lead Technologist, Strategic Innovation Group, Booz Allen Hamilton:How to Build a Secure DevOps Environment for Government and Beyond**](https://www.youtube.com/watch?v=slsAzknseTg) [Slides](http://www.slideshare.net/Docker/dockercon-sf-2015-how-to-build-a-secure-devops-environment-for-the-government)<br/>
+[**Ashish Hunnargikar, Software Engineer &amp; Mohit Soni, Software Engineer, PayPal:PayPal Goes Beyond CI to Production Scale PaaS with Docker**](https://www.youtube.com/watch?v=pPCn4gggrnQ) [Slides](http://www.slideshare.net/Docker/slideshare-paypal)<br/>
 
 ---
 
