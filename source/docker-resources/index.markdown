@@ -94,6 +94,19 @@ footer: true
 [**Thomas Barber, Cloud Computing Technologist &amp; Brett Luckabaugh, Enterprise Software Architect, GE Appliances:From Months to Minutes - How GE Brings Docker Into The Enterprise**](https://www.youtube.com/watch?v=RaSzmFkf4fM) [Slides](http://www.slideshare.net/Docker/dockercon-sf-2015-from-months-to-minutes)<br/>
 [**Nirmal Mehta, Senior Lead Technologist, Strategic Innovation Group, Booz Allen Hamilton:How to Build a Secure DevOps Environment for Government and Beyond**](https://www.youtube.com/watch?v=slsAzknseTg) [Slides](http://www.slideshare.net/Docker/dockercon-sf-2015-how-to-build-a-secure-devops-environment-for-the-government)<br/>
 [**Ashish Hunnargikar, Software Engineer &amp; Mohit Soni, Software Engineer, PayPal:PayPal Goes Beyond CI to Production Scale PaaS with Docker**](https://www.youtube.com/watch?v=pPCn4gggrnQ) [Slides](http://www.slideshare.net/Docker/slideshare-paypal)<br/>
+### Advanced Tech
+[**Brendan Burns, Software Engineer, Google - The Distributed System Toolkit: Container Patterns for Modular Distributed System Design**](https://www.youtube.com/watch?v=Ph3t8jIt894) [Slides](http://www.slideshare.net/Docker/slideshare-burns)<br/>
+[**Brian Scott &amp; Patrick O'Connor, The Walt Disney Company - Scaling New Services: From Container Creation to Automated Deployments**](https://www.youtube.com/watch?v=SyY-WTVkyyY) [Slides](http://www.slideshare.net/Docker/docke)<br/>
+[**Jessie Frazelle, Core Maintainer, Docker - Container Hacks and Fun Images**](
+https://www.youtube.com/watch?v=1qlLUf7KtAw)<br/>
+[**Bryan Cantrill, CTO, Joyent - Running Aground: Debugging Docker in Production**](https://www.youtube.com/watch?v=sYQ8j02wbCY) [Slides](http://www.slideshare.net/Docker/day-2-3-25-405running-aground-debugging-docker-in-productionbryan-cantrill)<br/>
+### Docker Docker Docker
+[**Nathan McCauley, Director of Security &amp; Diogo Monica, Security Lead - Docker Security**](https://www.youtube.com/watch?v=8mUm0x1uy7c) [Slides](http://www.slideshare.net/Docker/docker-security-for-slide)<br/>
+[**Ken Cochrane, Engineering Manager &amp; BC Wong, Software Engineer - Docker Hub**](https://www.youtube.com/watch?v=SPdb10MxBZI) [Slides](http://www.slideshare.net/Docker/docker-hub)<br/>
+[**Banjot Chanana, Sr. Director of Product Management &amp; Rajat Goel, Director of Engineering - Docker Trusted Registry**](https://www.youtube.com/watch?v=cVsUhoJFPvQ) [Slides](http://www.slideshare.net/Docker/dockercon-sf-2015-dhedtr)<br/>
+[**Stephen Day, Senior Software Engineer - Docker Registry**](https://www.youtube.com/watch?v=RnO9JnEO8tY) [Slides](http://www.slideshare.net/Docker/docker-registry-v2)<br/>
+### Culture
+[**Kwame Yamgnane, Co-Founder and Executive Director &amp; Gaetan Juvin, Software Engineer, 42 - How to Create a New Education in the Digital World**](https://www.youtube.com/watch?v=zv7wEd-iFCo) [Slides](http://www.slideshare.net/Docker/day-2-11-45-1225how-to-create-a-new-education-in-digital-worldkwame-yamgnane-gaetan-juvin)<br/>
 
 ---
 
