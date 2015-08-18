@@ -107,6 +107,7 @@ https://www.youtube.com/watch?v=1qlLUf7KtAw)<br/>
 [**Stephen Day, Senior Software Engineer - Docker Registry**](https://www.youtube.com/watch?v=RnO9JnEO8tY) [Slides](http://www.slideshare.net/Docker/docker-registry-v2)<br/>
 ### Culture
 [**Kwame Yamgnane, Co-Founder and Executive Director &amp; Gaetan Juvin, Software Engineer, 42 - How to Create a New Education in the Digital World**](https://www.youtube.com/watch?v=zv7wEd-iFCo) [Slides](http://www.slideshare.net/Docker/day-2-11-45-1225how-to-create-a-new-education-in-digital-worldkwame-yamgnane-gaetan-juvin)<br/>
+[**Mukta Aphale, WhiteHedge Technologies - MomOps in DevOps**](https://www.youtube.com/watch?v=xPvQNnXKHkk) [Slides](http://www.slideshare.net/Docker/dockercon-sf-2015-momops-in-devops-w-mukta-aphale)<br/>
 
 ---
 
